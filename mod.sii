@@ -1,0 +1,13 @@
+SiiNunit
+{
+mod_package_info : _nameless.14849.1
+{
+	package_name: "scania_rgb_led_ambiance"
+	package_version: "1.0.0"
+	package_author: "RGB LED Mod Developer"
+	package_category: "interior"
+	package_description: "Scania RGB LED Ambiyans Modu - Kabin içi dinamik LED aydınlatması"
+	icon: "icon.jpg"
+	archive_path: ""
+}
+}
